@@ -102,7 +102,7 @@ function showMenu() {
     let choice;
     do {
         console.log(menu);
-        choice = prompt("Enter option number");
+        choice = prompt("Enter Your Choice (1-6):");
 
         switch (choice) {
             case "1": 
